@@ -1,0 +1,24 @@
+---
+buzzwords: "data: {\"items\":[{\"label\":\"Exit strategy\",\"value\":2},{\"label\":\"Leverage\",\"value\":20},{\"label\":\"Web
+  2.0\",\"value\":23},{\"label\":\"Pivoting\",\"value\":22},{\"label\":\"Turn-key\",\"value\":26},{\"label\":\"Paradigm
+  shift\",\"value\":18},{\"label\":\"Synergy\",\"value\":23},{\"label\":\"Enterprise\",\"value\":17},{\"label\":\"Streamlininess\",\"value\":29}],\"id\":\"buzzwords\",\"updatedAt\":1650998171495}\n\n"
+convergence: "data: {\"points\":[{\"x\":481,\"y\":47},{\"x\":482,\"y\":16},{\"x\":483,\"y\":39},{\"x\":484,\"y\":15},{\"x\":485,\"y\":18},{\"x\":486,\"y\":1},{\"x\":487,\"y\":25},{\"x\":488,\"y\":32},{\"x\":489,\"y\":25},{\"x\":490,\"y\":48}],\"id\":\"convergence\",\"updatedAt\":1650998171495}\n\n"
+valuation: "data: {\"current\":46,\"last\":71,\"id\":\"valuation\",\"updatedAt\":1650998171495}\n\n"
+karma: "data: {\"current\":131686,\"last\":177515,\"id\":\"karma\",\"updatedAt\":1650998171495}\n\n"
+synergy: "data: {\"text\":\"text here\",\"moreinfo\":\"more info here\",\"id\":\"synergy\",\"updatedAt\":1651057555960}\n\n"
+welcome: "data: {\"text\":\"no\",\"id\":\"welcome\",\"updatedAt\":1650985367734}\n\n"
+response_time: "data: {\"value\":300,\"id\":\"response_time\",\"updatedAt\":1650973940580}\n\n"
+aww: "data: {\"image\":\"background-image:url(https://i.redd.it/lw5zaxkjil791.jpg)\",\"id\":\"aww\",\"updatedAt\":1656107583234}\n\n"
+quote: "data: {\"text\":\"What we call the secret of happiness is no more a secret
+  than our willingness to choose life. \",\"moreinfo\":\"Leo Buscaglia\",\"id\":\"quote\",\"updatedAt\":1659297437769}\n\n"
+xkcd-of-the-day: "data: {\"month\":\"5\",\"num\":106,\"link\":\"\",\"year\":\"2006\",\"news\":\"\",\"safe_title\":\"Wright
+  Brothers\",\"transcript\":\"[[A man and a woman are talking to each other]]\\nMan:
+  I've heard that when the Wright brothers argued, they periodically switched sides
+  in the debate to try to encourage a more balanced conclusion.\\nMan: We should try
+  that in our relationship!\\nWoman: It's a neat idea, but I think treating personal
+  issues like a debate will only engender hostility and hurt feelings.\\nMan: No,
+  I think it would help, by forcing us to consider the other person's point of view.\\nWoman:
+  Hmm, maybe you're right.\\nMan: Am not.  It's a bad idea.\\n{{alt: I'm not sure
+  if this is actually true}}\",\"alt\":\"I'm not sure if this is actually true\",\"img\":\"https://imgs.xkcd.com/comics/wright_brothers.png\",\"title\":\"Wright
+  Brothers\",\"day\":\"24\",\"datestr\":\"May 24, 2006\",\"id\":\"xkcd-of-the-day\",\"updatedAt\":1659297427859}\n\n"
+a_timeline: "data: {\"events\":[{\"name\":\"TODAY\",\"date\":\"Sun 31 Jul 2022\",\"background\":\"gold\"}],\"id\":\"a_timeline\",\"updatedAt\":1659297439247}\n\n"
